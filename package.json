@@ -4,16 +4,12 @@
   "description": "nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
     "dev": "nodemon index"
   },
   "author": "Matt Heerspink",
   "license": "ISC",
-  "dependencies": {
-    "uuid": "^3.4.0"
-  },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.3"
   }
 }
